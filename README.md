@@ -25,3 +25,8 @@ A simple Python console-based project to manage library books.
 
 ```bash
 python main.py
+## 📸 Project Screenshot
+
+![Library Management System](screenshot.png)
+ 
+
